@@ -4,6 +4,3 @@ add func1
 code conclick1
 code click2
 
-
-addtest1
-addtest2
