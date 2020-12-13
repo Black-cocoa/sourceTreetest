@@ -1,6 +1,2 @@
-add function1add function2
-add function1
-add function3
-
-add func1
-add func2
+addfunction 1
+addfunction 2
