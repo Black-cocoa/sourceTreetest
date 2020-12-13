@@ -1,3 +1,4 @@
 add function1add function2
 add function1
+add function2
 add function3
