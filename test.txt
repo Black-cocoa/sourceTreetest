@@ -6,3 +6,4 @@ code click2
 
 
 addtest1
+addtest2
